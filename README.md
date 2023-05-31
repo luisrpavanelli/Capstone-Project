@@ -73,7 +73,7 @@ Spanning across North and South America, this website brings together conference
 
 <!-- Live Demo -->
 # 🚀 Live Demo <a name="live-demo"></a>
-To preview a live demo [Click here!](https://luisrpavanelli.github.io/capstone-project/)
+To preview a live demo [Click here!](https://htmlpreview.github.io/?https://github.com/luisrpavanelli/capstone-project/blob/capstoneproject-branch/main.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
